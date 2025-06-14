@@ -1,0 +1,49 @@
+Inception|SciFi|English|13|8.8
+Parasite|Thriller|Korean|16|8.6
+Coco|Animation|English|7|8.4
+Dangal|Drama|Hindi|10|8.3
+3 Idiots|Comedy|Hindi|12|8.4
+Interstellar|SciFi|English|13|8.6
+The Dark Knight|Action|English|15|9.0
+Zindagi Na Milegi Dobara|Drama|Hindi|12|8.1
+Your Name|Romance|Japanese|13|8.4
+Toy Story|Animation|English|5|8.3
+Avengers: Endgame|Action|English|13|8.4
+The Lion King|Animation|English|6|8.5
+PK|Comedy|Hindi|10|8.1
+The Conjuring|Horror|English|18|7.5
+Train to Busan|Thriller|Korean|16|7.6
+Frozen|Animation|English|6|7.4
+Titanic|Romance|English|13|7.9
+Bajrangi Bhaijaan|Drama|Hindi|10|8.0
+Spirited Away|Fantasy|Japanese|10|8.6
+Shutter Island|Thriller|English|16|8.2
+Drishyam|Crime|Hindi|14|8.2
+Baahubali|Action|Telugu|13|8.0
+The Matrix|SciFi|English|15|8.7
+Harry Potter|Fantasy|English|10|8.0
+Life of Pi|Adventure|English|10|7.9
+Andhadhun|Thriller|Hindi|16|8.2
+Kimi no Na wa|Romance|Japanese|12|8.4
+Finding Nemo|Animation|English|5|8.1
+Minions|Comedy|English|5|6.9
+Lagaan|Drama|Hindi|10|8.1
+The Revenant|Adventure|English|17|8.0
+The Intouchables|Drama|French|14|8.5
+Tenet|SciFi|English|14|7.5
+Joker|Drama|English|18|8.5
+Barfi|Romance|Hindi|12|8.1
+Mad Max: Fury Road|Action|English|15|8.1
+Black Panther|Action|English|13|7.3
+The Notebook|Romance|English|14|7.8
+Piku|Comedy|Hindi|10|7.6
+Soul|Animation|English|6|8.1
+Bhaag Milkha Bhaag|Biography|Hindi|13|8.2
+Haider|Drama|Hindi|16|8.1
+Ratatouille|Animation|English|6|8.0
+Inside Out|Animation|English|6|8.2
+Bahubali 2|Action|Telugu|13|8.2
+The Pursuit of Happyness|Biography|English|10|8.0
+Slumdog Millionaire|Drama|English|13|8.0
+Sanju|Biography|Hindi|14|7.8
+Tumbbad|Horror|Hindi|16|8.2
